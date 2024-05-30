@@ -91,6 +91,7 @@ public:
                 cout << queue_array[FRONT] << " ";
                 FRONT++;
             }
+            cout << endl;
         }
     }
     
@@ -99,6 +100,7 @@ public:
 
 int main()
 {
-    
+    Queues q;
+    char ch;
 }
 
