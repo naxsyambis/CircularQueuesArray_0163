@@ -104,7 +104,9 @@ int main()
     char ch;
 
     while (true) {
+        try {
 
+        }
     }
 }
 
