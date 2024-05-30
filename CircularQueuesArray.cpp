@@ -139,6 +139,7 @@ int main()
             }
             default: {
                 cout << "Invalid optional!!" << endl;
+                break;
             }
             }
 
